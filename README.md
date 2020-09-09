@@ -12,3 +12,9 @@ Created a static chessboard using chessboard.js
 
 npm i -g http-server
 http-server
+
+# Day 9 - Dice Simulator in python
+
+Created a simple digital dice using python 
+
+python dice_generator.py
