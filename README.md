@@ -18,3 +18,10 @@ http-server
 Created a simple digital dice using python 
 
 python dice_generator.py
+
+# Day 11 - HTML to XML in C#
+
+A program to convert HTML to XML file
+
+dotnet add package Spire.Doc --version 8.8.2
+dotnet run
