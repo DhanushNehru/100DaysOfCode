@@ -27,5 +27,3 @@ A chrome extension to share image or quote directly to facebook
 
 A chrome extension to download bulk images from any page
 code.jquery.com/jquery/
-
-
