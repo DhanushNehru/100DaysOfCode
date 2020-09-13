@@ -1,0 +1,31 @@
+{
+    "name": "Bulk Image Downloader",
+    "description": "Downloads every image on a web page",
+    "version": "0.1",
+    "permissions":["<all_urls>", "tabs","activeTab", "downloads"],
+    "icons": {
+        "16": "images/DN16.png",
+        "48": "images/DN48.png",
+        "64": "images/DN64.png",
+        "128": "images/DN128.png"
+    },
+    "browser_action": {
+        "default_popup": "popup/index.html"
+    },
+    "background": {
+        "scripts": [
+            "jquery-3.4.1.min.js",
+            "background.js"
+        ]
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": [
+                "jquery-3.4.1.min.js",
+                "content.js"
+            ]
+        }
+    ],
+    "manifest_version": 2
+}

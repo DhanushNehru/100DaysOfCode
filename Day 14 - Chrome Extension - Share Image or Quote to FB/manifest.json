@@ -1,0 +1,22 @@
+{
+    "name": "Share Image/Quote to FB",
+    "description": "Shows menu items",
+    "version": "1",
+    "permissions":["contextMenus","activeTab"],
+    "icons": {
+        "16":"images/DN16.png",
+        "48":"images/DN48.png",
+        "64":"images/DN64.png",
+        "128":"images/DN128.png"
+    },
+    "background":{
+        "scripts":["background.js"]
+    },
+    "content_scripts":[
+        {
+            "matches":["*://www.google.com/*","*://www.youtube.com/*"],
+            "js":["index.js"]
+        }
+    ],
+    "manifest_version":2
+}

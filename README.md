@@ -18,3 +18,14 @@ http-server
 Created a simple digital dice using python 
 
 python dice_generator.py
+
+# Day 14 - Chrome Extension - Share Image or Quote to FB
+
+A chrome extension to share image or quote directly to facebook
+
+# Day 15 - Chrome Extension - Bulk Image Downloader
+
+A chrome extension to download bulk images from any page
+code.jquery.com/jquery/
+
+
