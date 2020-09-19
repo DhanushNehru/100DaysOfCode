@@ -27,3 +27,11 @@ A chrome extension to share image or quote directly to facebook
 
 A chrome extension to download bulk images from any page
 code.jquery.com/jquery/
+
+# Day 21 - Face Recognition using python
+
+Using opencv to detect face in both image and video.
+pip install numpy
+pip install opencv-python
+
+
