@@ -34,4 +34,11 @@ Using opencv to detect face in both image and video.
 pip install numpy
 pip install opencv-python
 
+# Day 27 - Twitter Bot using python
+pip install tweepy
 
+# Day 29 - Text to Speech using python
+pip install pyttsx3
+
+# Day 42, 43 - Desktop App using python
+pip install tkinter
