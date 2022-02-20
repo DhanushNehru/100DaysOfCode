@@ -42,3 +42,8 @@ pip install pyttsx3
 
 # Day 42, 43 - Desktop App using python
 pip install tkinter
+
+# Day 1 to 100 
+# Documented in the below blog
+- [My100DaysOfCode@Hashnode](https://dhanushxeno.hashnode.dev/100daysofcode)
+- [My100DaysOfCode@Dev.to](https://dev.to/dhanushnehru/my-100daysofcode-journey-56je)
