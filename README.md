@@ -43,11 +43,25 @@ pip install pyttsx3
 ## Day 42, 43 - Desktop App using python
 pip install tkinter
 
+## 📹 Watch the Journey
+
+Check out my video on the 100 Days of Code Journey 👇
+
+[![100 Days Of Code](https://img.youtube.com/vi/JIw0QVk5yiw/0.jpg)](https://youtu.be/JIw0QVk5yiw?si=HKz46nw4kSfgxH7p)
+
+
 ## Day 1 to 100 
 ### Documented in the below blog
 - [My100DaysOfCode@Hashnode](https://dhanushnehru.hashnode.dev/100daysofcode)
 - [My100DaysOfCode@Dev.to](https://dev.to/dhanushnehru/my-100daysofcode-journey-56je)
-- [My100DaysOfCode@Medium](https://link.medium.com/NEhQUbMxYzb)
+- [My100DaysOfCode@Medium](https://dhanushnehru.medium.com/100daysofcode-165980f0e1f6)
+
+### Show Your Support
+
+Please show your support by giving this repository a star ⭐
+
+- 👉 [![Support](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange?style=flat-square)](https://ko-fi.com/dhanushnehru)
+- 👉 [![Github Sponsor](https://img.shields.io/badge/Sponsor-💖-brightgreen)](https://github.com/sponsors/DhanushNehru)
 
 ### Connect 👉 [**Twitter**](https://twitter.com/Dhanush_Nehru) **/** [**Instagram**](https://www.instagram.com/dhanush_nehru/) **/** [**Github**](https://github.com/DhanushNehru/) **/** [**Youtube**](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) **/** [**Newsletter**](https://dhanushn.substack.com/) **/** [**Discord**](https://discord.com/invite/Yn9g6KuWyA)
 
