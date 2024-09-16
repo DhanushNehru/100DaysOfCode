@@ -54,7 +54,7 @@ Check out my video on the 100 Days of Code Journey 👇
 ### Documented in the below blog
 - [My100DaysOfCode@Hashnode](https://dhanushnehru.hashnode.dev/100daysofcode)
 - [My100DaysOfCode@Dev.to](https://dev.to/dhanushnehru/my-100daysofcode-journey-56je)
-- [My100DaysOfCode@Medium](https://dhanushnehru.medium.com/100daysofcode-165980f0e1f6)
+- [My100DaysOfCode@Medium](https://dhanushnehru.medium.com/100daysofcode-165980f0e1f6?sk=dda3b985d7260849fa9c7d640ab6ea1e)
 
 ### Show Your Support
 
